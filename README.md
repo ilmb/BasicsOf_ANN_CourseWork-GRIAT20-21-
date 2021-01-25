@@ -1,6 +1,6 @@
 # BasicsOf_ANN_CourseWork-GRIAT20-21
 # Roadsign detection in DVR video
-## This repo contains .ipymb files with trained models and weigthts
+## This repo contains .ipymb files with trained models
 1. YOLOV4
 2. Faster-RCNN
 2. RetinaNet-101
